@@ -1,6 +1,6 @@
 {
     "name": "Whisper",
-    "version": "0.1",
+    "version": "0.2",
     "description": "whisper of the heart.",
     "manifest_version": 2,
     "theme": {
@@ -9,14 +9,14 @@
         },
         "colors": {
             "frame": [
-                219,
-                226,
-                219
+                240,
+                235,
+                229
             ],
             "toolbar": [
-                193,
-                203,
-                215
+                250,
+                234,
+                211
             ],
             "tab_text": [
                 31,
@@ -34,9 +34,9 @@
                 31
             ],
             "ntp_background": [
-                193,
-                203,
-                215
+                250,
+                234,
+                211
             ],
             "ntp_text": [
                 0,
