@@ -1,0 +1,65 @@
+{
+    "name": "Whisper",
+    "version": "0.1",
+    "description": "whisper of the heart.",
+    "manifest_version": 2,
+    "theme": {
+        "images": {
+            "theme_ntp_background": "images/background.png",
+        },
+        "colors": {
+            "frame": [
+                219,
+                226,
+                219
+            ],
+            "toolbar": [
+                193,
+                203,
+                215
+            ],
+            "tab_text": [
+                31,
+                30,
+                31
+            ],
+            "tab_background_text": [
+                64,
+                64,
+                64
+            ],
+            "bookmark_text": [
+                31,
+                30,
+                31
+            ],
+            "ntp_background": [
+                193,
+                203,
+                215
+            ],
+            "ntp_text": [
+                0,
+                0,
+                0
+            ],
+            "button_background": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "tints": {
+            "buttons": [
+                0.3,
+                0.5,
+                0.5
+            ]
+        },
+        "properties": {
+            "ntp_background_alignment": "bottom",
+            "ntp_background_repeat": "no-repeat"
+        }
+    }
+}
