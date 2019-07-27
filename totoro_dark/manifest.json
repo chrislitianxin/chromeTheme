@@ -1,0 +1,73 @@
+{
+    "name": "totoro night",
+    "version": "1.1",
+    "description": "Dark theme when Totoro says good night!",
+    "manifest_version": 2,
+    "theme": {
+        "images": {
+            "theme_tab_backgound": "images/tab_background.png",
+            "theme_ntp_background": "images/background.png",
+            "theme_toolbar": "images/tab_background.png"
+        },
+        "colors": {
+            "frame": [
+                46,
+                54,
+                78
+            ],
+            "toolbar": [
+                46,
+                54,
+                78
+            ],
+            "tab_text": [
+                222,
+                222,
+                222
+            ],
+            "tab_background_text": [
+                222,
+                222,
+                222
+            ],
+            "bookmark_text": [
+                222,
+                222,
+                222
+            ],
+            "ntp_background": [
+                41,
+                65,
+                100
+            ],
+            "ntp_text": [
+                222,
+                222,
+                222
+            ],
+            "button_background": [
+                222,
+                222,
+                222,
+                0
+            ]
+        },
+        "tints": {
+            "buttons": [
+                0,
+                0,
+                0.8
+            ],
+            "frame_inactive": [
+                0.2,
+                0.2,
+                0.25
+            ]
+        },
+        "properties": {
+            "ntp_background_alignment": "top",
+            "ntp_background_repeat": "no-repeat",
+            "ntp_logo_alternate": 1
+        }
+    }
+}
